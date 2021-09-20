@@ -1,1 +1,1 @@
-GG,WP
+x = str('GGWP')
