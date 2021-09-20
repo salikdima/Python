@@ -22,7 +22,7 @@ print(y)
 
 '''
 
-first_name = 'Dima'
+'''first_name = 'Dima'
 last_name = 'Karchik'
 print('Hello,{first} {last}'.format
     (
@@ -32,4 +32,5 @@ print('Hello,{first} {last}'.format
 
 
 temp_string = 'abcdefghijp'
-print(temp_string.replace('b', 'c').replace('j', 'c').replace('d', 'c').replace('e', 'c'))
+print(temp_string.replace('b', 'c').replace('j', 'c').replace('d', 'c').replace('e', 'c'))'''
+
